@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="category.xsl"?>
+
+<breakfast_menu>
+
+<food>
+<name>Belgian Waffles</name>
+<price>$5.95</price>
+<description>Two of al maple </description>
+<calories>650</calories>
+<image>images/thumb1.gif</image>
+<link>details.html</link>
+</food>
+
+<food>
+<name>Strawberry Belgian </name>
+<price>$7.95</price>
+<description>Light whipped </description>
+<calories>900</calories>
+<image>images/thumb1.gif</image>
+<link>details.html</link>
+</food>
+
+<food>
+<name>Berry-Berry Belgian </name>
+<price>$8.95</price>
+<description>Light Bel cream</description>
+<calories>900</calories>
+<image>images/thumb1.gif</image>
+<link>details.html</link>
+</food>
+
+<food>
+<name>French Toast</name>
+<price>$4.50</price>
+<description>Thick rdough bread</description>
+<calories>600</calories>
+<image>images/thumb1.gif</image>
+<link>details.html</link>
+</food>
+
+<food>
+<name>Homestyle Breakfast</name>
+<price>$6.95</price>
+<description>Two eggs, baconhash </description>
+<calories>950</calories>
+<image>images/thumb1.gif</image>
+<link>details.html</link>
+</food>
+
+</breakfast_menu>
+
